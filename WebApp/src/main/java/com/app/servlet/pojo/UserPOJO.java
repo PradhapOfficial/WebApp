@@ -2,7 +2,7 @@ package com.app.servlet.pojo;
 
 public class UserPOJO {
 	private String name;
-
+	private int age;
 	public String getName() {
 		return name;
 	}
